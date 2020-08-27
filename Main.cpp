@@ -2215,7 +2215,7 @@ void lets_play()
         cout<<"                   ------------------------WHITE WON !--------------------------  "<<endl;
     }
 }
-int main() //this is main function where programme begines
+int main() //this is main function where programme begins
 {
     lets_play();
     return 0;
